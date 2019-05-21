@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>Resources/supermarket_64px_1144996_easyicon.net.png</file>
+    <file>Resources/building_158px_1185575_easyicon.net.png</file>
+    <file>Resources/exit_64.385542168675px_1201055_easyicon.net.png</file>
+    <file>Resources/home_176px_1201102_easyicon.net.png</file>
+    <file>Resources/map_location_68.952380952381px_1201146_easyicon.net.png</file>
+    <file>Resources/office_block_1945px_1202687_easyicon.net.png</file>
+    <file>Resources/Restaurant_Blue_256px_1078998_easyicon.net.png</file>
+    <file>Resources/route_63.640449438202px_1201221_easyicon.net.png</file>
+    <file>Resources/search_48px_1200688_easyicon.net.png</file>
+  </qresource>
+</RCC>
